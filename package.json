@@ -1,0 +1,28 @@
+{
+  "name": "ts-jest-test",
+  "version": "1.0.0",
+  "description": "ts test",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.7.2"
+  },
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quocsy2511/Ts-Jest-Test.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Six",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quocsy2511/Ts-Jest-Test/issues"
+  },
+  "homepage": "https://github.com/quocsy2511/Ts-Jest-Test#readme"
+}
